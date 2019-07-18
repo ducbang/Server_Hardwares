@@ -48,3 +48,21 @@
     <img src=https://i.imgur.com/TOaNL1v.jpg>
 
 ## **3) Blade**
+- Cuối cùng , Server có thể xuất hiện với hình dạng băng dẹt ( **blade** )
+
+    <img src=https://i.imgur.com/4hjSo1G.jpg>
+
+- Công nghệ này bao gồm 1 khoang máy chủ chứa bên trong nhiều bảng mạch mỏng , gọi là **server blades** . Mỗi **blade** ( hoặc **card** ) chứa **CPU** , **RAM** , **card mạng tích hợp** , và một số **cổng I/O** .
+- Công nghệ **blade** cho phép giảm tới `85%` số lượng cáp so với server **`1U`** và **tower** truyền thống .
+- Công nghệ **blade** sử dụng ít không gian hơn trong **tủ rack** :
+
+    <img src=https://i.imgur.com/M9cveY8.png>
+
+### **3.1) Khoang blade ( blade enclosure )**
+- **Khoang blade** là 1 hệ thống chứa nhiều **blade servers** .
+- Bên dưới gầm khoang cung cấp điện và làm mát cho **blade server**
+
+    <img src=https://i.imgur.com/U9qCIrE.png>
+
+### **3.2) Bảng nối ( Backplane/Midplane )**
+- 
