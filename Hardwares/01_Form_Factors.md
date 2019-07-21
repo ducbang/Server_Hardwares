@@ -31,7 +31,7 @@
             <img src=https://i.imgur.com/OvC38Yz.png>
 
     - Các loại màn LCD gắn sẵn trên **tủ rack** thường có kích cỡ **`7U`** . Server cũng có những loại như **blade server** lên tới **`10U`** .
-    - 1 **tủ rack** tiêu chuẩn cung cấp khoảng **`42U`**
+    - 1 **tủ rack** tiêu chuẩn cung cấp khoảng **`42U`** hoặc **`48U`**
 - Các **bộ thanh ray** :
     - 1 **bộ thanh ray** sẽ chia thành 2 phần : 1 phần gắn vào Server ( **inner rail** ) và 1 phần gắn vào **tủ rack** ( **outer rail** ) . **Inner rail** được thiết kế nhỏ hơn để có thể trượt trong **outer rail**
 
