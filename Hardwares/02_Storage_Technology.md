@@ -11,6 +11,4 @@
 
 | **Ưu điểm** | **Nhược điểm** |
 |-------------|----------------|
-| Ổ cứng **NAS** có thể dễ dàng truy cập qua mạng TCP/IP | Độ trễ ( **latency** ) của **NAS** cao hơn và độ tin cậy ( **reliability** ) thấp hơn so với **SAN**
-| Triển khai **NAS** không quá tốn chi phí | Các traffic của **NAS** sẽ cạnh tranh với các luồng dữ liệu khi nó không còn ở trong mạng LAN của nó |
-| **NAS** hỗ trợ nhiều phương thức **RAID** | 
+| Ổ cứng **NAS** có thể dễ dàng truy cập qua mạng TCP/IP<br>- Triển khai **NAS** không quá tốn chi phí<br>- **NAS** hỗ trợ nhiều phương thức **RAID**<br>- **NAS** có thể cung cấp giao diện quản lý GUI <br>- **NAS** có thể bao gồm các phần mềm backup<br>- **NAS** hỗ trợ `high throughput`| - Độ trễ ( **latency** ) của **NAS** cao hơn và độ tin cậy ( **reliability** ) thấp hơn so với **SAN**<br>- Các traffic của **NAS** sẽ cạnh tranh với các luồng dữ liệu khi nó không còn ở trong mạng LAN của nó<br>- Tình trạng mất gói tin và nghẽn mạng thường xuyên xảy ra với mạng Ethernet<br>- Không xử lý `snapshot` tốt bằng **SAN** |
